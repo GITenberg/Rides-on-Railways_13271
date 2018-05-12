@@ -1,0 +1,28 @@
+_repo: Rides-on-Railways_13271
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sidney, Samuel
+    birthdate: 1813
+    deathdate: 1883
+    gutenberg_agent_id: '4968'
+    url: http://www.gutenberg.org/2009/agents/4968
+description: Cover -- Table of Contents.
+gutenberg_issued: '2004-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Railroads -- Great Britain'
+- !lcsh 'Great Britain -- Description and travel'
+- !lcsh 'Railroad travel -- Great Britain'
+- !lcc 'HE'
+title: Rides on Railways
+url: http://www.gutenberg.org/ebooks/13271
