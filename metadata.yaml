@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4968'
     url: http://www.gutenberg.org/2009/agents/4968
 description: Cover -- Table of Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13271#Rides-on-Railways
 gutenberg_issued: '2004-08-25'
 gutenberg_type: Text
 identifiers:
